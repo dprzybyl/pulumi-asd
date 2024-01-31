@@ -1,6 +1,0 @@
-name: provider-asd-native
-runtime: nodejs
-plugins:
-  providers:
-    - name: asd
-      path: ../../bin
