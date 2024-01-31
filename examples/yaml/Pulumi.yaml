@@ -1,13 +1,13 @@
-name: provider-xyz-native
+name: provider-asd-native
 runtime: yaml
 plugins:
   providers:
-    - name: xyz
+    - name: asd
       path: ../../bin
 
 resources:
   myRandomResource:
-    type: xyz:Random
+    type: asd:Random
     properties:
       length: 24
 

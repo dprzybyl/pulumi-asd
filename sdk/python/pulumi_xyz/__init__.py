@@ -11,11 +11,11 @@ _utilities.register(
     resource_modules="""
 [
  {
-  "pkg": "xyz",
+  "pkg": "asd",
   "mod": "index",
   "fqn": "pulumi_xyz",
   "classes": {
-   "xyz:index:Random": "Random"
+   "asd:index:Random": "Random"
   }
  }
 ]
@@ -23,8 +23,8 @@ _utilities.register(
     resource_packages="""
 [
  {
-  "pkg": "xyz",
-  "token": "pulumi:providers:xyz",
+  "pkg": "asd",
+  "token": "pulumi:providers:asd",
   "fqn": "pulumi_xyz",
   "class": "Provider"
  }
