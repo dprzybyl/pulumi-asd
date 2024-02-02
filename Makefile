@@ -2,7 +2,7 @@ PROJECT_NAME := Pulumi Asd Resource Provider
 
 PACK             := asd
 PACKDIR          := sdk
-PROJECT          := github.com/pulumi/pulumi-asd
+PROJECT          := github.com/dprzybyl/pulumi-asd-native
 NODE_MODULE_NAME := @pulumi/asd
 NUGET_PKG_NAME   := Pulumi.Asd
 

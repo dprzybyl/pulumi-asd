@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-asd/sdk
+module github.com/dprzybyl/pulumi-asd-native/sdk
 
 go 1.21
 

@@ -17,7 +17,7 @@ package main
 import (
 	p "github.com/pulumi/pulumi-go-provider"
 
-	asd "github.com/pulumi/pulumi-asd/provider"
+	asd "github.com/dprzybyl/pulumi-asd-native/provider"
 )
 
 // Serve the provider against Pulumi's Provider protocol.
